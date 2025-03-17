@@ -1,16 +1,13 @@
-## Hi there 👋
+ Estudante do curso técnico de Informática no Augustos
+🌐 Aprendendo HTML e CSS
+📍 Sabará - MG
 
-<!--
-**mariaavelar/mariaavelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Tenho 15 anos e sou apaixonada por tecnologia. Atualmente, estou focada em aprender desenvolvimento web, começando com HTML e CSS. Estou sempre em busca de novos conhecimentos e projetos para aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que estou aprendendo
+
+HTML5
+
+CSS3
